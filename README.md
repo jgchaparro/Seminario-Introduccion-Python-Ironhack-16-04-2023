@@ -1,6 +1,6 @@
-# Seminario Introduccion Python Ironhack 16 04 2023
+# Seminario Introduccion Python Ironhack 23 04 2023
 
-Repositorio con los materiales para el seminario de introducción a Python impartido el 16 de abril de 2023 en Ironhack Madrid
+Repositorio con los materiales para el seminario de introducción a Python impartido el 23 de abril de 2023 en Ironhack Madrid
 
 ¿Qué aprenderemos?
 
@@ -12,7 +12,7 @@ Repositorio con los materiales para el seminario de introducción a Python impar
 
 🔹 Extra: primer contacto con Pandas, consejos y recursos.
 
-📅 ¿Cuándo?: Domingo 16 de abril a las 10:00H
+📅 ¿Cuándo?: Domingo 23 de abril a las 10:00H
 
 🎟️ Modalidad: Presencial en el campus de Ironhack en Matadero Madrid
 
